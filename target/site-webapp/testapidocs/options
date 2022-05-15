@@ -1,0 +1,26 @@
+-classpath
+'E:/my_calculator/my_calculator/target/classes;E:/my_calculator/my_calculator/target/test-classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/my_calculator/my_calculator/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'E:/my_calculator/my_calculator/target/site-webapp/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my_calculator 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'E:/my_calculator/my_calculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my_calculator 1.0-SNAPSHOT Test API'
